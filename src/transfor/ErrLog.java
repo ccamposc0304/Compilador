@@ -5,7 +5,7 @@ public class ErrLog
     
     enum erroresLog /*Enum con un repositrio de todos errores que exiten en este sistema*/
     {
-        A1("Advertencia001: Este comando no es soportado por Transfor"),
+        A1("Advertencia001: Comando no es soportado por Transfor"),
         E1("Error001: La linea no puede exceder 80 columnas"),
         E2("Error002: En columnas de 0 a 4 solo se permiten etiquetas con\n"
                 + "        numeracion de 00000 a 99999 en el formato #####,\n"
